@@ -10,7 +10,7 @@ import time, datetime, random, sys, json, codecs, threading, glob, re, string, o
 
 cl = LINEBALI.LINE()
 #cl.login(qr=True)
-cl.login(token='TOKENMU')
+cl.login(token='EoYS5CIDf6LH7codIZw7.vRkykT/S5RsMsiwWlC435W.vZae0tgpkoxXcwagR9Hkjt/Wos93UbeJ/bdSMdna0Y4=')
 cl.loginResult()
 
 print "login success"
